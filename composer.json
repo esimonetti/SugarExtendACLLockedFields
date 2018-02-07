@@ -1,5 +1,5 @@
 {
     "require": {
-        "esimonetti/sugar-module-packager": "dev-master"
+        "esimonetti/sugar-module-packager": "0.1.0"
     }
 }
