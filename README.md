@@ -1,2 +1,5 @@
 # SugarExtendACLLockedFields
-Extend ACLLockedFields
+Extend SugarACLLockedFields
+
+`composer update`
+`./vendor/bin/package <version number>`
